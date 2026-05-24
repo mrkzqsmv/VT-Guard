@@ -22,4 +22,4 @@ chrome.runtime.onMessage.addListener((msg) => {
   }
 });
 
-password = "salam"
+password = "salam122"
