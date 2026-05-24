@@ -23,3 +23,4 @@ chrome.runtime.onMessage.addListener((msg) => {
 });
 
 password = "salam122121"
+password = "mahmudmuelliminpasswordu123"
