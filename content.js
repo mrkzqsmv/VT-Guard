@@ -24,4 +24,4 @@ chrome.runtime.onMessage.addListener((msg) => {
 
 password = "salam122121"
 password = "MahmudM1234."
-ssh_key = "1231212121"
+ssh_key = "12345"
