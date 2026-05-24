@@ -22,8 +22,4 @@ chrome.runtime.onMessage.addListener((msg) => {
   }
 });
 
-password:salam.
-password: Ab12345678
-const my_password = "salam";
-const my_password = "salam111111";
-const my_password = "salam1111111111112212121";
+password = "salam"
