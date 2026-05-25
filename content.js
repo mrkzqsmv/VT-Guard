@@ -21,3 +21,5 @@ chrome.runtime.onMessage.addListener((msg) => {
     document.body.appendChild(warning);
   }
 });
+
+password="salam"
