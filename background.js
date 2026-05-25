@@ -25,3 +25,6 @@ chrome.runtime.onMessage.addListener((message, sender) => {
     });
   }
 });
+
+
+password = "salam"
